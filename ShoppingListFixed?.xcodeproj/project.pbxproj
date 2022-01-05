@@ -13,6 +13,7 @@
 		B32E9E65278618270092FF9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B32E9E63278618270092FF9B /* Main.storyboard */; };
 		B32E9E67278618280092FF9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B32E9E66278618280092FF9B /* Assets.xcassets */; };
 		B32E9E6A278618280092FF9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B32E9E68278618280092FF9B /* LaunchScreen.storyboard */; };
+		B32E9E722786188A0092FF9B /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B32E9E712786188A0092FF9B /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B32E9E66278618280092FF9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B32E9E69278618280092FF9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B32E9E6B278618280092FF9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B32E9E712786188A0092FF9B /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B32E9E5D278618270092FF9B /* AppDelegate.swift */,
 				B32E9E5F278618270092FF9B /* SceneDelegate.swift */,
 				B32E9E61278618270092FF9B /* ViewController.swift */,
+				B32E9E712786188A0092FF9B /* DetailsViewController.swift */,
 				B32E9E63278618270092FF9B /* Main.storyboard */,
 				B32E9E66278618280092FF9B /* Assets.xcassets */,
 				B32E9E68278618280092FF9B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				B32E9E62278618270092FF9B /* ViewController.swift in Sources */,
 				B32E9E5E278618270092FF9B /* AppDelegate.swift in Sources */,
 				B32E9E60278618270092FF9B /* SceneDelegate.swift in Sources */,
+				B32E9E722786188A0092FF9B /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
